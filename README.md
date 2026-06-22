@@ -42,4 +42,4 @@ Update time reduced from **1 hour to less than 5 minutes**.
 Database credentials are **not** in the code — they are loaded from environment variables (a `.env` file, which is not version-controlled).
 
 ## Dashboard Preview
-![Power BI Dashboard](dashboard_preview.png)
+![Power BI Dashboard](dashboard_preview.png.png)
