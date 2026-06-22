@@ -25,21 +25,7 @@ Update time reduced from **1 hour to less than 5 minutes**.
 - Python
 - pandas
 - pyodbc
-- SQL
-
-## How to use
-
-1. Clone this repository
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Create a `.env` file in the project root with your credentials (use `.env.example` as a template)
-4. Run the notebook `agrosys_etl_pipeline.ipynb`
-
-## Note
-
-Database credentials are **not** in the code — they are loaded from environment variables (a `.env` file, which is not version-controlled).
+- Power BI
 
 ## Dashboard Preview
 ![Power BI Dashboard](dashboard_preview.png.png)
