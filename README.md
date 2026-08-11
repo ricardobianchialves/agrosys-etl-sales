@@ -4,7 +4,7 @@ Python pipeline that extracts sales data from the Agrosys ERP via ODBC, consolid
 
 ## Problem
 
-Manually updating sales data (extracting and organizing it in Excel) used to take about **1 hour**.
+Manually updating sales data (extracting and organizing it in Excel) used to take about **2 hour**.
 
 ## Solution
 
