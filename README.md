@@ -18,7 +18,7 @@ A notebook that:
 
 ## Result
 
-Update time reduced from **1 hour to less than 5 minutes**.
+Update time reduced from **2 hours to less than 5 minutes**.
 
 ## Tech stack
 
